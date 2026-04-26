@@ -71,8 +71,6 @@ The goal is to translate raw data into **actionable business insights** that can
 - Clean, structured, and recruiter-friendly presentation  
 - Demonstrates **data storytelling and decision-making skills**
 
-## Screenshot 
-   ![dasahbord preview](<img width="1143" height="619" alt="Screenshot 2026-04-26 181923" />)
   
 
 
