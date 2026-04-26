@@ -71,8 +71,9 @@ The goal is to translate raw data into **actionable business insights** that can
 - Clean, structured, and recruiter-friendly presentation  
 - Demonstrates **data storytelling and decision-making skills**
 
-## Dashboard 
-   ![dasahbord preview](https://github.com/bhujbalvaishnavi/customer_behavior_analysis/blob/main/customer_behavior_dashboard.pbix)
+## Screenshot 
+   ![dasahbord preview](<img width="1143" height="619" alt="Screenshot 2026-04-26 181923" src="https://github.com/user-attachments/assets/c8d1aa7d-5e01-4b3b-8d47-4663a9551e03" />
+)
   
 
 
